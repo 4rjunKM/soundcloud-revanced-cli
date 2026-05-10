@@ -16,7 +16,7 @@ Ad-Free Experience • Offline Sync • Obtainium Ready
 
 <br><br>
 
-<a href="../../releases">
+<a href="https://github.com/4rjunKM/soundcloud-revanced-cli/releases/latest">
 <img src="https://img.shields.io/badge/Get%20it%20on-GitHub-black?style=for-the-badge&logo=github"
 alt="GitHub Releases"
 height="60">
@@ -40,11 +40,11 @@ The repository focuses on maintaining a lightweight and transparent release work
 
 Designed for:
 
-* Stable release distribution
-* Ad-free listening experience
-* Offline sync support
-* Automated update tracking
-* Reproducible patch generation
+- Stable release distribution
+- Ad-free listening experience
+- Offline sync support
+- Automated update tracking
+- Reproducible patch generation
 
 ---
 
@@ -74,7 +74,7 @@ Supports direct repository import into Obtainium for automated release tracking 
 
 # Current Release
 
-```text id="4vxyd8"
+```text
 SoundCloud 2025.05.27-release
 ```
 
@@ -82,9 +82,9 @@ SoundCloud 2025.05.27-release
 
 # Applied Patches
 
-* Disable telemetry
-* Enable offline sync
-* Hide ads
+- Disable telemetry
+- Enable offline sync
+- Hide ads
 
 ---
 
@@ -100,36 +100,36 @@ Tap the Obtainium badge above on Android devices to directly import this reposit
 
 Obtainium automatically:
 
-* Detects new releases
-* Tracks updates
-* Downloads APK assets
-* Handles installation workflows
+- Detects new releases
+- Tracks updates
+- Downloads APK assets
+- Handles installation workflows
 
 ---
 
 # Compatibility
 
-| Component       | Support        |
-| --------------- | -------------- |
-| Android Version | Android 8.0+   |
-| Distribution    | Stable Release |
-| Patch Framework | ReVanced CLI   |
+| Component | Support |
+|---|---|
+| Android Version | Android 8.0+ |
+| Distribution | Stable Release |
+| Patch Framework | ReVanced CLI |
 
 ---
 
 # Installation Notes
 
-* Existing SoundCloud installations may need to be removed before installation
-* Play Store automatic updates should be disabled after installation
-* Patch compatibility depends on upstream SoundCloud changes
+- Existing SoundCloud installations may need to be removed before installation
+- Play Store automatic updates should be disabled after installation
+- Patch compatibility depends on upstream SoundCloud changes
 
 ---
 
 # Toolchain
 
-* ReVanced CLI
-* ReVanced Patches
-* ReVanced Integrations
+- ReVanced CLI
+- ReVanced Patches
+- ReVanced Integrations
 
 ---
 
@@ -139,19 +139,19 @@ This repository acts as a release distribution platform for reproducible SoundCl
 
 Primary objectives:
 
-* Maintain stable patched releases
-* Preserve reproducible patch workflows
-* Provide streamlined APK distribution
-* Support automated update delivery through Obtainium
+- Maintain stable patched releases
+- Preserve reproducible patch workflows
+- Provide streamlined APK distribution
+- Support automated update delivery through Obtainium
 
 ---
 
 # Credits
 
-* ReVanced Team
-* ReVanced Patcher Developers
-* Open-source contributors
-* Community testers
+- ReVanced Team
+- ReVanced Patcher Developers
+- Open-source contributors
+- Community testers
 
 ---
 
@@ -159,5 +159,5 @@ Primary objectives:
 
 SoundCloud™ is a trademark of SoundCloud Global Limited & Co. KG.
 
-This repository does not distribute proprietary applications or paid software.
+This repository does not distribute proprietary applications or paid software.  
 Provided strictly for educational, research, and customization purposes.
